@@ -24,3 +24,5 @@ int main() {
         cout << "Not found";
     return 0;
 }
+ // TIME COMPLEXITY O(log(n))
+//P - problem
