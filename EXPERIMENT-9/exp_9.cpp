@@ -25,4 +25,6 @@ public:
         
         return mini;
     }
+    //Time complexity: O(n*sum) where n is the length of input array, and sum is sum of all elements of the array
+    //Space complexity: O(n*sum)
 };
